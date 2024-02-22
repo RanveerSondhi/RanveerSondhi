@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/ranveer2805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranveer2805" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ranveer-singh-11b276181?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranveer singh" height="30" width="40" /></a>
-<a href="https://fb.com/ranveer singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranveer singh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100013294125457&mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranveer singh" height="30" width="40" /></a>
 <a href="https://instagram.com/ranveersondhi_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranveersondhi_28" height="30" width="40" /></a>
 </p>
 
