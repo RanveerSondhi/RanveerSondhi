@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranveer Singh</h1>
-<h3 align="center">A passionate Software Programmer from Canada</h3>
+<h3 align="center">A passionate Computer Programmer from Canada</h3>
 
 - 🌱 I’m currently learning **Front end web development**
 
