@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ranveer Singh</h1>
-<h3 align="center">A passionate Computer Programmer from Canada</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Canada.</h3>
 
-- 🌱 I’m currently learning **Front end web development**
+- 🌱 I’m currently learning **Full stack web development**
 
 - 📄 Know about my experiences [I don’t have any experience currently. I’m working on projects and will post on github soon.](I don’t have any experience currently. I’m working on projects and will post on github soon.)
 
