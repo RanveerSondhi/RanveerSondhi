@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning **Full stack web development**
 
-- 📄 Know about my experiences [I don’t have any experience currently. I’m working on projects and will post on github soon.](I don’t have any experience currently. I’m working on projects and will post on github soon.)
-
+- 📄 Know about my experiences I don’t have any experience currently. I’m working on projects and will post on github soon.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ranveer2805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranveer2805" height="30" width="40" /></a>
